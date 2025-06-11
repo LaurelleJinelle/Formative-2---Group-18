@@ -12,17 +12,7 @@
 
 ---
 
-## 📦 Installation
 
-To install the library from [PyPI]([https://pypi.org/project/alumath-matmult/0.1.0/]):
-
-```bash
-pip install alumath-matmult==0.1.0
-```
-After installation, import the matrix multiplication function from the library
-```bash
-from alumath_matmult import matrix_multiply
-```
 
 ## Requirements
 Python 3.6+
